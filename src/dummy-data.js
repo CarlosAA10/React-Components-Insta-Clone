@@ -44,6 +44,31 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+     {
+        username: "liluzivert",
+        thumbnailUrl: 'https://townsquare.media/site/812/files/2019/12/Uzi-Vert.jpg?w=980&q=75',
+        imageUrl: 'https://static.stereogum.com/uploads/2020/03/lil-uzi-vert-love-vs-the-world-2-1584053330.jpeg',
+        likes: 63265,
+        timestamp: "March 13 2020, 12:00:09 am",
+        comments: [
+            {
+                username: "liluzivert",
+                text: "lil uzi vs the world 2 out now, stream everywhere!"
+            },
+            {
+                username: "s3npapi",
+                text: "THE GODS HAVE ANSWERED OUR PRAYERS"
+            },
+            {
+                username: "lildurk",
+                text: "What we tell you, this album is blowing"
+            },
+            {
+                username: "barackObama",
+                text: "what fine work you have done sir Uzi"
+            }
+        ]
     }
 ];
 
